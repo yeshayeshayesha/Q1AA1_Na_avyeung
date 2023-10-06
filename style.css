@@ -1,0 +1,52 @@
+*{padding:0px;
+margin:0px;}
+
+#links{
+    display:inline;
+ 
+}
+
+#navbar{
+    padding:15px;
+    border: 1px solid black;
+    text-align: right;
+    background-color: rgb(123, 146, 89);
+    text-shadow: black;
+   
+}
+
+#home{
+    color:white; 
+    font-weight: bolder; 
+    text-shadow: black;
+}
+#galle{
+    color:white;
+    font-weight: bolder;
+}
+
+#logo{
+    float:left;
+    background-image: url(me.jpg);
+    width: 25px;
+    height: 25px;
+}
+
+.banner{
+    background-image: url(me.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 60vh;
+}
+
+.banner h1{
+    font-weight: 900;
+    color:rgb(22, 56, 27);
+    font-size: xx-large;
+}
+
+.banner h1 span{
+    color:rgb(30, 63, 28);
+}
