@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Cantata+One&family=Josefin+Sans:ital,wght@1,700&family=Roboto:wght@300&display=swap');
+*{padding:0px; margin:0px;}
+
+/**navbar**/
+#links{
+    display:inline;
+ 
+}
+#navbar{
+    padding:15px;
+    border: 1px solid black;
+    text-align: right;
+    background-color: rgb(123, 146, 89);
+    text-shadow: black;
+   
+}
+
+#home{
+    color:white; 
+    font-weight: bolder; 
+    text-shadow: black;
+}
+#galle{
+    color:white;
+    font-weight: bolder;
+}
+
+#logo{
+    float:left;
+    background-image: url(me.jpg);
+    width: 25px;
+    height: 25px;
+    border-radius: 1px;
+}
+
+
+
+#footer{
+    padding:15px;
+    border: 1px solid green;
+    background-color: rgb(123, 146, 89);
+
+}
+
+#footer #foot{
+    color:whitesmoke;
+    font-size: smaller;
+    display: inline;
+}
+
+.twt img{
+    height: 5vh;
+    float: right;
+}
+
+#gallery{
+    padding-top: 6vh;
+}
+
+#gallery h1{
+    font-family: 'Cantata One', serif;
+    color: rgb(38, 69, 38);
+    padding-left: 5vh;
+}
+
+#gallery .line1{
+    height: 30vh;
+    width: 20vw;
+    align-content: center;
+
+}
+
+#gallery .line2{
+    display: inline;
+    height: 30vh;
+    width: 20vw;
+
+}
