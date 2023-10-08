@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
 *{padding:0px;
 margin:0px;}
 
@@ -42,18 +44,21 @@ margin:0px;}
     background-position: center;
     background-size: cover;
     width: 100vw;
-    height: 80vh;
+    height: 85vh;
     
 }
 
 .banner h1{
     color:rgb(22, 56, 27);
-    font-size: 80px;
+    font-size: 10vh;
     text-shadow: black;
     text-align: center;
-    font-family: 'Josefin Sans', sans-serif; 
-    padding-top: 100px;
+    font-family: 'Young Serif', serif;
     text-decoration: underline;
+    padding-top: 10vh;
+    padding-left: 10vw;
+    padding-right: 10vw;
+
 }
 
 .banner h1 span{
@@ -68,8 +73,7 @@ margin:0px;}
 .banner a{
     background-color:rgb(123, 146, 89);
     border: 1px solid white;
-    margin-left: 90px;
-    margin-bottom: 10px;
+    margin-left: 15vw;
     padding: 13px;
     color: white;
     text-decoration: none;
@@ -81,6 +85,7 @@ margin:0px;}
     padding:15px;
     border: 1px solid green;
     background-color: rgb(123, 146, 89);
+   
 
 }
 

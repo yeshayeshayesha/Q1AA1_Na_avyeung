@@ -55,6 +55,8 @@
 
 #gallery{
     padding-top: 6vh;
+    height: 80vh;
+    width: 100vw;
 }
 
 #gallery h1{
@@ -62,7 +64,8 @@
     color: rgb(38, 69, 38);
     padding-left: 5vh;
 }
-
+#gg{
+}
 #gallery .line1{
     height: 30vh;
     width: 20vw;
